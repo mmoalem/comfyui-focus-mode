@@ -8,6 +8,8 @@ I was getting frustrated with the amount of scrolling around the canvas I had to
 
 With this extension you can focus on exactly the nodes you need, grouped together in a clean panel.
 
+When you activate focus mode, the selected nodes are temporarily relocated to a clean area of the canvas, far to the right of your workflow, and arranged side by side. All wires between nodes are hidden, and non-selected nodes are not drawn — giving you an uncluttered, full-screen view of just the nodes that matter. When you exit focus mode, every node is restored to its exact original position in the workflow, and all connections reappear as they were.
+
 ## Features
 
 - **Focus Panel** — right-click any node and add it to the panel, or select multiple nodes and toggle focus mode
