@@ -2,6 +2,8 @@
 
 A ComfyUI extension that lets you select a subset of nodes and view them in an isolated, full-screen panel — free from canvas scrolling.
 
+![Focus Mode Demo](docs/demo.mp4)
+
 ## Why I built this
 
 I was getting frustrated with the amount of scrolling around the canvas I had to do with large workflows. I like having access to the complete workflow to fine-tune it now and then, but when I feel that it's working and switch to "production mode" where I just want to generate, I realised I only need access to a handful of nodes — be it an image or video loader, the prompt node, the save image/audio/video nodes, and maybe a couple of others. But these tend to be all over the canvas.
