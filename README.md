@@ -37,3 +37,11 @@ Restart ComfyUI. A ⊞ Focus button appears in the top toolbar (or use `Extensio
 2. **Toggle focus mode** — click the ⊞ Focus button in the toolbar, or press `Ctrl+Shift+P`
 3. **Exit** — click ⊞ Exit Focus, press `Ctrl+Shift+P`, or press `Esc`
 4. **Rearrange** — drag nodes around in the panel; their positions are remembered next time you enter focus mode
+
+---
+
+## Support
+
+If you find this project useful, consider supporting my work:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/mmoalem)
